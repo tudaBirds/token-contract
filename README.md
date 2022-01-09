@@ -5,7 +5,6 @@
     -  symbol: BURD
     -  5% fee,
            * add 3% to the liquidity
-                lock LP forever
            * distribute 2% to holders
 
 Deployed on Binance Smart Chain
