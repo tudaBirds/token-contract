@@ -3,9 +3,7 @@
     - Total supply:  1,000,000,000
     -  name: tudaBirds,
     -  symbol: BURD
-    -  5% fee,
-           * add 3% to the liquidity
-           * distribute 2% to holders
+    -  No fee,
 
 Deployed on Binance Smart Chain
 
